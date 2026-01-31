@@ -1,0 +1,2 @@
+# Epistemic-Agency-and-the-Ontological-Continuity-Condition
+A philosophical analysis of epistemic agency arguing that knowledge and responsibility require ontological continuity over time. The paper introduces the ontological continuity condition, showing why episodic, resettable, or substitutable systems cannot own knowledge, and why agency cannot be reduced to optimisation or output correctness.
